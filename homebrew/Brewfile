@@ -1,0 +1,23 @@
+cask_args appdir: '~/Applications'
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/cask-fonts"
+brew "exa"
+brew "git"
+brew "git-delta"
+brew "mas"
+brew "n"
+brew "trash"
+brew "wget"
+brew "z"
+cask "1password", args: { appdir: "/Applications" }
+cask "firefox"
+cask "google-chrome"
+cask "iterm2"
+cask "mark-text"
+cask "netnewswire"
+cask "visual-studio-code"
+mas "Magnet", id: 441258766
+mas "SnippetsLab", id: 1006087419
+mas "Unsplash Wallpapers", id: 1284863847
