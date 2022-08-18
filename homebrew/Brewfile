@@ -17,6 +17,7 @@ cask "google-chrome"
 cask "iterm2"
 cask "mark-text"
 cask "netnewswire"
+cask "transmission"
 cask "visual-studio-code"
 mas "Magnet", id: 441258766
 mas "SnippetsLab", id: 1006087419
