@@ -7,7 +7,10 @@ First thing first, update the system!
 For that: **Apple Icon > About This Mac** then **Software Update...**
 
 ## System Preferences
-
+- Apperance
+  
+  - Auto
+  
 - Dock
   
   - Remove most applications from Dock
